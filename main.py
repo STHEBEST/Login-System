@@ -10,7 +10,7 @@ Please Enter a valid choice: """)
 
 
 
-# making the sign up function
+
 if welcome == "Sign up":
 
     account_info = {}
