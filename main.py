@@ -55,7 +55,7 @@ elif welcome == "Login":
 
         print("Your Username or Password Is Incorrect. Please try again")
 else:
-    print("Please Type 'Sign up' or 'Login'. ")
+    print("Please Type 'Sign up' or 'Login'")
 
 
 
